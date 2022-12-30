@@ -1,7 +1,7 @@
 # 2023_SWAIcamp
 가톨릭대 방학중 SW/AI 캠프
 
-## 2일차
+## EAI
 
 ### day1
 - 실습 환경에 따라 파이썬 스크립트(`1_Perceptron_MLP.py`) 또는 주피터 노트북 파일(`1_Perceptron_MLP.ipynb
