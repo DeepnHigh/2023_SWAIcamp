@@ -1,0 +1,8 @@
+1. GoogleNews-vectors-negative300.bin.gz
+https://drive.google.com/file/d/1k8YStl678FTV9RwLZ-wfLUzvpGgfABWW/view?usp=sharing
+
+2. ko.zip
+https://drive.google.com/file/d/1k9Ex2l-6SjS7pOJFoSaieOa579H8A8tX/view?usp=sharing
+
+3. Yolo.zip
+https://drive.google.com/file/d/1fLhpbHLcNFhs1W3jDo08m8ec0uC7GFQW/view?usp=sharing
