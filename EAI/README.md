@@ -3,7 +3,7 @@
 ## EAI
 
 ### 강의자료 및 영화(her) 편집본
-- day1, day2 디렉토리의 강의자료.url 파일을 참고하여 직접 접근하거나 
+- day1, day2 디렉토리의 `강의자료.url` 파일을 참고하여 직접 접근하거나 
 - [day1 강의자료](https://docs.google.com/presentation/d/1kCsWtObeinK8tu0y7EOdttFyqjfNJCH7/edit?usp=sharing&ouid=108072753624144957735&rtpof=true&sd=true), [day2 강의자료](https://docs.google.com/presentation/d/1wLddMnQzbrNIAerKFjuSE9LMa3TwXbCa/edit?usp=sharing&ouid=108072753624144957735&rtpof=true&sd=true), [영화 HER 편집본](https://drive.google.com/file/d/1PXFd5UmJXF4UrEfoVMFVD6OaVRi8VxuK/view?usp=sharing) 링크를 클릭하여 바로 다운받을 수 있습니다.
 
 ### day1
